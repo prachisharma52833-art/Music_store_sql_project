@@ -13,6 +13,11 @@ The main objective of this Project is to analyze the music Store database and ex
 * Writing Complex queries using JOINs and sybqueries.
 * Performing aggregation and filtering to derive insights.
 
+ ## Business problem and Solutions
+
+ 
+ 
+
 ## Conclusion
 
 This project helped me understand how databases work and how to use SQL for real-world analysis.By querying multiple related tables,I was able to find key patterns and insights.
