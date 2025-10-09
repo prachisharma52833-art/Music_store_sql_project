@@ -10,8 +10,13 @@ This project is based on Music Store dataset which has 11 different csv files su
 The main objective of this Project is to analyze the music Store database and extract meaningful information using SQL.It involves:
 
 * Understanding relationships between tables.
-* Writing Complex queries using JOINs and sybqueries.
+* Writing Complex queries using JOINs and subqueries.
 * Performing aggregation and filtering to derive insights.
+
+## Tools and Technologies used
+1. Postgreysql
+2. pgAdmin4
+3. SQL(Joins,Aggregate function,CTE,orderby,groupby,Limit,subqueries,etc)
 
  ## Business problem and Solutions
 
